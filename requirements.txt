@@ -1,0 +1,10 @@
+ctransformers==0.2.5 # inorder to download the model from huggingface
+sentence-transformers==2.2.2 # for the embedding model
+# pinecone-client
+langchain
+langchain-pinecone
+flask
+
+pypdf
+python-dotenv
+-e .
